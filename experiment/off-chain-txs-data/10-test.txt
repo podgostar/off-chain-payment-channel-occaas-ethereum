@@ -1,0 +1,45 @@
+A (0xdfFD30B76BeEc167497B11f86431fB9a2A379583) opens CH ("channel-909"): 0x96ec60dcf9c2e5a54c21fe6ecbe2b2faf3bb55f7dd147849ef6431b3c3f34664
+B (0xe6AD3723B4d04eA1aa4C5C39563d9485963e9122) joins CH ("channel-909"): 0xbae7e91cc5f5c7e6ba6ddf42cfdb59f860ce8b8ea34c0ec8f49b34fa2aed3e71
+A (0xdfFD30B76BeEc167497B11f86431fB9a2A379583) performs (10) off-chain txs towards B (0xe6AD3723B4d04eA1aa4C5C39563d9485963e9122)
+
+[
+25
+180
+236
+286
+342
+393
+448
+503
+553
+608
+]
+
+B (0xe6AD3723B4d04eA1aa4C5C39563d9485963e9122) invites C (0xc55F25CBfc5FF0085b1bacE81AF4911E6cd16365) to CH ("channel-909"): 0xda188f08de48f38a6cfd201d068f4fde062ba728f5098eaf394dee1ca3659831
+A (0xdfFD30B76BeEc167497B11f86431fB9a2A379583) leaves CH ("channel-909"): 0x7808e6165ce50fdb3706d232cc3d2b314dfd34d6329fd8bbd30d2d5c973f6c25
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) joins CH ("channel-909"): 0x262090832818aba94dde89335bf4e1469f00f63c3b828b3c35c2e79a9e6f8b49
+B (0xe6AD3723B4d04eA1aa4C5C39563d9485963e9122) perfroms (n - 2) off-chain txs towards C (): 
+
+last state:  [
+  {
+    address: '0xe6AD3723B4d04eA1aa4C5C39563d9485963e9122',
+    balance: '100000000606000'
+  },
+  {
+    address: '0xc55F25CBfc5FF0085b1bacE81AF4911E6cd16365',
+    balance: '100000000002000'
+  }
+]
+
+C (0xc55F25CBfc5FF0085b1bacE81AF4911E6cd16365) leaves CH ("channel-909"): 0x9daabedef428eb1e907cfe7f16e72b2afe8d0d9c6ac070b10c8bd3d2555731fa
+
+last state:  [
+  {
+    address: '0xe6AD3723B4d04eA1aa4C5C39563d9485963e9122',
+    balance: '100000000606000'
+  }
+]
+
+B (0xe6AD3723B4d04eA1aa4C5C39563d9485963e9122) leaves CH ("channel-909"): 0x0d6c903a32ecbbc4bb61937572c6f2060bc56b462f415d0864430d22fd7da6b6
+
+Last off-chain state:  []
